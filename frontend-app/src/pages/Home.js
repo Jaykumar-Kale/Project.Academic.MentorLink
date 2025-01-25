@@ -1,4 +1,8 @@
-
+/*
+  Project name;
+  Dsc:
+  2 Buttons  ( Register and Login)
+*/
 
 function Home() {
     return (
